@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchService", "src\Search
 		{56C0CAAC-2E14-42E7-BB81-1EB29579706E} = {56C0CAAC-2E14-42E7-BB81-1EB29579706E}
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "Src\Contracts\Contracts.csproj", "{56C0CAAC-2E14-42E7-BB81-1EB29579706E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contracts", "src\Contracts\Contracts.csproj", "{56C0CAAC-2E14-42E7-BB81-1EB29579706E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityService", "src\IdentityService\IdentityService.csproj", "{58C8D302-9C5A-4163-A7FE-1A6F6F0DA874}"
 EndProject
