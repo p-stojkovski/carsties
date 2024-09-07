@@ -2,9 +2,10 @@
 
 import React, { useState } from 'react'
 import Image from 'next/image';
+import { Auction } from '@/types';
 
 type Props = {
-    auction: any
+    auction: Auction
 }
 
 export default function CardImage({auction} : Props) {
